@@ -14,4 +14,3 @@ Este portfólio serve como um reflexo do meu profissionalismo e paixão pelo des
 Estou entusiasmado com a oportunidade de integrar equipes inovadoras e contribuir para o sucesso de projetos desafiadores.
 
 Estou ansioso para a possibilidade de colaborarmos em projetos futuros e fazer avançar a fronteira do desenvolvimento full-stack.
-
